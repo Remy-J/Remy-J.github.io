@@ -1,0 +1,10 @@
+[
+    {
+        "id": 9,
+        "name": "Mondial de la biere",
+        "image": "https://fever.imgix.net/plan/photo/a48ee004-5d2c-11e9-b555-064931504376.jpg?auto=compress&auto=format&fm=jpg&w=220&h=220",
+        "price": "12$",
+        "type": "indoor",
+        "alt": "mondial de la biere"
+    }
+]

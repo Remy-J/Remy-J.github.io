@@ -1,0 +1,10 @@
+[
+    {
+        "id": 21,
+        "name": "Salle d'arcade",
+        "image": "https://s3-media2.fl.yelpcdn.com/bphoto/3DCxHrIONssMLr_XyI49uA/348s.jpg",
+        "price": "55$",
+        "type": "indoor",
+        "alt": "salle d'arcade la tete dans les nuages"
+    }
+]
