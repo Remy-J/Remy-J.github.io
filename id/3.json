@@ -1,10 +1,8 @@
-[
-    {
-        "id": 3,
-        "name": "Aqua poney",
-        "image": "https://static.mmzstatic.com/wp-content/uploads/2015/12/aquaponey-realite.jpg",
-        "price": "85$",
-        "type": "indoor",
-        "alt": "aqua poney"
-    }
-]
+{
+    "id": 3,
+    "name": "Aqua poney",
+    "image": "https://static.mmzstatic.com/wp-content/uploads/2015/12/aquaponey-realite.jpg",
+    "price": "85$",
+    "type": "indoor",
+    "alt": "aqua poney"
+}

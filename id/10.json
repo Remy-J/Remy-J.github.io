@@ -1,10 +1,8 @@
-[
-    {
-        "id": 10,
-        "name": "Cours de sabre laser",
-        "image": "https://medias.spotern.com/spots/w640/60186-1532336916.jpg",
-        "price": "30$",
-        "type": "indoor",
-        "alt": "cours de sabre laser"
-    }
-]
+{
+    "id": 10,
+    "name": "Cours de sabre laser",
+    "image": "https://medias.spotern.com/spots/w640/60186-1532336916.jpg",
+    "price": "30$",
+    "type": "indoor",
+    "alt": "cours de sabre laser"
+}

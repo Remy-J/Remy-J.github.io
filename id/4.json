@@ -1,10 +1,8 @@
-[
-    {
-        "id": 4,
-        "name": "Afterwork rooftop",
-        "image": "https://fever.imgix.net/plan/photo/c018107e-bb52-11e8-a8c4-067dfd978c4d.jpg?auto=compress&auto=format&fm=jpg&w=220&h=220",
-        "price": "30$",
-        "type": "outdoor",
-        "alt": "rooftop"
-    }
-]
+{
+    "id": 4,
+    "name": "Afterwork rooftop",
+    "image": "https://fever.imgix.net/plan/photo/c018107e-bb52-11e8-a8c4-067dfd978c4d.jpg?auto=compress&auto=format&fm=jpg&w=220&h=220",
+    "price": "30$",
+    "type": "outdoor",
+    "alt": "rooftop"
+}

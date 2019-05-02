@@ -1,10 +1,8 @@
-[
-    {
-        "id": 11,
-        "name": "Cours de twerk",
-        "image": "https://fever.imgix.net/plan/photo/5ce10cec-9ee5-11e8-92c0-067dfd978c4d.jpg?auto=compress&auto=format&fm=jpg&w=720&h=720",
-        "price": "15$",
-        "type": "indoor",
-        "alt": "twerk"
-    }
-]
+{
+    "id": 11,
+    "name": "Cours de twerk",
+    "image": "https://fever.imgix.net/plan/photo/5ce10cec-9ee5-11e8-92c0-067dfd978c4d.jpg?auto=compress&auto=format&fm=jpg&w=720&h=720",
+    "price": "15$",
+    "type": "indoor",
+    "alt": "twerk"
+}

@@ -1,10 +1,8 @@
-[
-    {
-        "id": 24,
-        "name": "Apéro sur les toits",
-        "image": "https://fever.imgix.net/plan/photo/6dc87e90-c1a5-11e8-99b3-067dfd978c4d.jpg?auto=compress&auto=format&fm=jpg&w=220&h=220",
-        "price": "15$",
-        "type": "outdoor",
-        "alt": "apéro sur les toits"
-    }
-]
+{
+    "id": 24,
+    "name": "Apéro sur les toits",
+    "image": "https://fever.imgix.net/plan/photo/6dc87e90-c1a5-11e8-99b3-067dfd978c4d.jpg?auto=compress&auto=format&fm=jpg&w=220&h=220",
+    "price": "15$",
+    "type": "outdoor",
+    "alt": "apéro sur les toits"
+}
