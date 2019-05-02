@@ -1,0 +1,10 @@
+[
+    {
+        "id": 2,
+        "name": "Simulateur de vol",
+        "image": "https://stopmensonges.com/wp-content/uploads/2013/11/11septembre.jpg",
+        "price": "150$",
+        "type": "indoor",
+        "alt": "simulateur de vol"
+    }
+]
