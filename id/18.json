@@ -1,8 +1,8 @@
 {
-    " id": 18,
-    "name": "Combat de sumo",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtFuwgLDtoYdrQAGeitTDo0AtTIMxOw7_cBYpLI_az0U9IE2vhdA",
-    "price": "35$",
+    "id": 18,
+    "name": "Balle trap",
+    "image": "http://www.ball-trap-club-nanceien.com/wp-content/uploads/Nancy_accueil-300x201.jpg",
+    "price": "30$",
     "type": "outdoor",
-    "alt": "combat de sumo"
+    "alt": "mec qui tiens un fusil"
 }

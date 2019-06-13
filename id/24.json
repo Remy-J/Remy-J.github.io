@@ -1,8 +1,8 @@
 {
     "id": 24,
-    "name": "Apéro sur les toits",
-    "image": "https://fever.imgix.net/plan/photo/6dc87e90-c1a5-11e8-99b3-067dfd978c4d.jpg?auto=compress&auto=format&fm=jpg&w=220&h=220",
-    "price": "15$",
-    "type": "outdoor",
-    "alt": "apéro sur les toits"
+    "name": "Combat UFC",
+    "image": "https://cdn.vox-cdn.com/thumbor/0Z-LPzlKUgFveM_lZXgzFOae_lE=/0x0:1920x1280/1200x800/filters:focal(749x204:1055x510)/cdn.vox-cdn.com/uploads/chorus_image/image/60721763/140_Conor_McGregor_vs_Eddie_Alvarez.0.0.jpg",
+    "price": "50",
+    "type": "indoor",
+    "alt": "ufc"
 }

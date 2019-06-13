@@ -1,8 +1,8 @@
 {
-    " id": 15,
-    "name": "Lancer de hache",
-    "image": "https://fever.imgix.net/plan/photo/1f336caa-c9fc-11e7-800b-067dfd978c4d.png?auto=compress&auto=format&fm=jpg&w=220&h=220",
-    "price": "30$",
-    "type": "outdoor",
-    "alt": "hache sur une cible"
+    "id": 15,
+    "name": "Soiree Stand Up",
+    "image": "https://fever.imgix.net/plan/photo/b43e7544-369b-11e9-a278-067dfd978c4d.jpg?auto=compress&auto=format&fm=jpg&w=220&h=220",
+    "price": "10$",
+    "type": "indoor",
+    "alt": "soirée de stand up"
 }

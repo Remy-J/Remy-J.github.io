@@ -1,8 +1,8 @@
 {
     "id": 20,
-    "name": "Balle trap",
-    "image": "http://www.ball-trap-club-nanceien.com/wp-content/uploads/Nancy_accueil-300x201.jpg",
-    "price": "30$",
-    "type": "outdoor",
-    "alt": "mec qui tiens un fusil"
+    "name": "SPA privatisé",
+    "image": "https://fever.imgix.net/plan/photo/80c18228-369c-11e9-a562-067dfd978c4d.jpg?auto=compress&auto=format&fm=jpg&w=220&h=220",
+    "price": "55$",
+    "type": "indoor",
+    "alt": "SPA"
 }
